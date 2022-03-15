@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubal-alma
+- 👋 Hi, I’m @rubal prakash
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning SpringBoot Microservices with Java
 - 💞️ I’m looking to collaborate on CICD, Angular CLI.
